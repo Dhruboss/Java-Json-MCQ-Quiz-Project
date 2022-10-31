@@ -1,0 +1,122 @@
+[
+  {
+    "Answer": "c",
+    "Option a": "Unit Testing",
+    "Option b": "Smoke Testing",
+    "Question": "Which one is non-functional testing?",
+    "Option c": "Load Testing",
+    "Option d": "Sanity Testing"
+  },
+  {
+    "Answer": "d",
+    "Option a": "SQA engineer",
+    "Option b": "Project Manager",
+    "Question": "Who does Unit testing?",
+    "Option c": "User",
+    "Option d": "Developer"
+  },
+  {
+    "Answer": "d",
+    "Option a": "Software True Life Cycle",
+    "Option b": "Software Task Life Cycle",
+    "Question": "STLC full form is",
+    "Option c": "Software Trust Life Cycle",
+    "Option d": "Software Test Life Cycle"
+  },
+  {
+    "Answer": "c",
+    "Option a": "Load Testing",
+    "Option b": "Security Testing",
+    "Question": "Which one is a funtional testing?",
+    "Option c": "Sanity Testing",
+    "Option d": "Benchmark Testing"
+  },
+  {
+    "Answer": "d",
+    "Option a": "Load Testing",
+    "Option b": "Gorilla Testing",
+    "Question": "Which testing is done by user?",
+    "Option c": "Regression Testing",
+    "Option d": "Acceptance testing"
+  },
+  {
+    "Answer": "a",
+    "Option a": "Static testing",
+    "Option b": "dynamic testing",
+    "Question": "verification is a ",
+    "Option c": "beta testing",
+    "Option d": "alpha testing"
+  },
+  {
+    "Answer": "c",
+    "Option a": "blackbox testing",
+    "Option b": "Performance testing",
+    "Question": "Implementation of code is not needed for which testing testing?",
+    "Option c": "WhiteboX testing",
+    "Option d": "Acceptence testing"
+  },
+  {
+    "Answer": "b",
+    "Option a": "bug",
+    "Option b": "error",
+    "Question": "A mistake in coding is called ",
+    "Option c": "defect",
+    "Option d": "failure"
+  },
+  {
+    "Answer": "c",
+    "Option a": "White box and black box testing",
+    "Option b": "White-box testing",
+    "Question": "Which of the following testing is related to the boundary value analysis?",
+    "Option c": "Black box testing",
+    "Option d": "None of the above"
+  },
+  {
+    "Answer": "a",
+    "Option a": "Developer's end",
+    "Option b": "User's end",
+    "Question": "In which environment we can performed the Alpha testing?",
+    "Option c": "User's and developer's end",
+    "Option d": "None of the above"
+  },
+  {
+    "Answer": "b",
+    "Option a": "White-box testing",
+    "Option b": "Black Box testing",
+    "Question": "Which testing technique is used for usability testing?",
+    "Option c": "Grey box testing",
+    "Option d": "Combination of all"
+  },
+  {
+    "Answer": "a",
+    "Option a": "User's end",
+    "Option b": "Developer's end",
+    "Question": "In which environment we can performed the Beta testing?",
+    "Option c": "User's and developer's end",
+    "Option d": "None of the above"
+  },
+  {
+    "Answer": "b",
+    "Option a": "Structural testing",
+    "Option b": "Behavioral testing",
+    "Question": "Which of the following is not another name of white box testing?",
+    "Option c": "Glass box testing",
+    "Option d": "None of the mentioned"
+  },
+  {
+    "Answer": "a",
+    "Option a": "Adhoc Testing",
+    "Option b": "Regression Testing",
+    "Question": "Which of the below testing is executed without documentation and planning is known as?",
+    "Option c": "Unit Testing",
+    "Option d": "None of the above"
+  },
+  {
+    "Answer": "d",
+    "Option a": "Alpha testing",
+    "Option b": "Grey box testing",
+    "Question": "Which of the following testing is also called Acceptance testing?",
+    "Option c": "White-box testing",
+    "Option d": "Beta testing"
+  }
+]
